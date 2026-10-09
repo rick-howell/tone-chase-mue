@@ -1,0 +1,14 @@
+# FL Studio FPC samples: licensed for making music, not for redistribution
+samples/
+# fit_drum.py writes a copy of the input sample here
+original.wav
+
+# Course brief (instructor's text)
+AI Sprint #1.txt
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
